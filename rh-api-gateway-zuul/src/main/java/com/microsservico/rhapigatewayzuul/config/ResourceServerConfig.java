@@ -22,7 +22,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter{
 
 	private static final String[] OPERATOR = { "/rh-funcionario/**" };
 
-	private static final String[] ADMIN = { "/rh-pagamento/**", "/rh-user/**" };
+	private static final String[] ADMIN = { "/rh-pagamento/**", "/rh-user/**", "/actuator/**", "/rh-funcionario/actuator/**", "/rh-oauth/actuator/**" };
 
 	@Override
 	public void configure(ResourceServerSecurityConfigurer resources) throws Exception {

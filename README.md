@@ -58,10 +58,6 @@ Este projeto possui 7 microsserviços que funcionam da seguinte forma:
 
 ![Exemplo de instâncias dos microsserviços em funcionamento ](https://github.com/Giacomellivinicius/Microsservicos-Java/blob/main/images/VisaoGeral.png?raw=true)
 
-## Como rodar o projeto
-
-[ ] descrever como rodar o projeto
-
 ## Endpoints:
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/db94b9c19d8a03e7f466?action=collection%2Fimport#?env%5BMicrosservi%C3%A7os%20Spring%5D=W3sia2V5IjoiQXBpLWdhdGV3YXkiLCJ2YWx1ZSI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODc2NSIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoiY29uZmlnLWhvc3QiLCJ2YWx1ZSI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OCIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoiY2xpZW50LW5hbWUiLCJ2YWx1ZSI6Im15YXBwbmFtZTEyMyIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoiY2xpZW50LXNlY3JldCIsInZhbHVlIjoibXlhcHBzZWNyZXQxMjMiLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6InVzZXJuYW1lIiwidmFsdWUiOiJsZWlhQGdtYWlsLmNvbSIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoicGFzc3dvcmQiLCJ2YWx1ZSI6IjEyMzQ1NiIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoidG9rZW4iLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWV9XQ==)

@@ -24,7 +24,12 @@ Se gostar do meu trabalho é só me chamar que é sucesso!
 
 # Microsservicos com Java Spring
 
-Este sistema mantém um registro dos funcionários de um determinado setor/empresa e é responsável por gerar folhas de pagamento baseado nas horas trabalhadas e salário/hora de cada funcionário. A segurança destas informações é mantida através de autenticação dos usuários autorizados e utilização de tokens de sessão com tempo de expiração.   
+Este sistema mantém um registro dos funcionários de um determinado setor/empresa e é responsável por gerar folhas de pagamento baseado nas horas trabalhadas e salário/hora de cada funcionário. A segurança destas informações é mantida através de autenticação dos usuários autorizados e utilização de tokens de sessão com tempo de expiração.
+
+### Índice:
+* [Visão geral do sistema](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#world_map-vis%C3%A3o-geral-do-sistema)
+* [Utilização](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#hammer_and_wrench-utiliza%C3%A7%C3%A3o)
+* [Endpoints](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#endpoints)
 
 **Tecnologias utilizadas:**
 - **Feign** para requisições de API entre os microsserviços
@@ -40,7 +45,7 @@ Este sistema mantém um registro dos funcionários de um determinado setor/empre
 
 ![ Esquema de funcionamento dos micrisserviços ](https://github.com/Giacomellivinicius/Microsservicos-Java/blob/main/images/Esquema.png?raw=true)
 
-Este projeto foi feito com a arquitetura de API's REST, utilizando as camadas de entities, services e resources. 
+Este projeto foi feito com a arquitetura de API's REST, utilizando as camadas: entities, services e resources.  
 Este projeto possui 7 microsserviços que funcionam da seguinte forma:
 - **rh-funcionario** - mantém o registro de trabalhadores e realiza o mapeamento utilizando JPA
 - **rh-pagamento** - acessa as informações do microsserviço de funcionários e gera uma folha de pagamento 

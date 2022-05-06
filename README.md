@@ -27,11 +27,22 @@ Se gostar do meu trabalho é só me chamar que é sucesso!
 Este sistema mantém um registro dos funcionários de um determinado setor/empresa e é responsável por gerar folhas de pagamento baseado nas horas trabalhadas e salário/hora de cada funcionário. A segurança destas informações é mantida através de autenticação dos usuários autorizados e utilização de tokens de sessão com tempo de expiração.
 
 ### Índice:
-* [Visão geral do sistema](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#world_map-vis%C3%A3o-geral-do-sistema)
-* [Utilização](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#hammer_and_wrench-utiliza%C3%A7%C3%A3o)
+* :world_map: [Visão geral do sistema](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#world_map-vis%C3%A3o-geral-do-sistema)
+* :hammer_and_wrench: [Utilização](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#hammer_and_wrench-utiliza%C3%A7%C3%A3o)
 * [Endpoints](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#endpoints)
 
-**Tecnologias utilizadas:**
+**Tecnologias utilizadas:**   
+[![Java, O brabo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Spring framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![Spring secutiry](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](#)
+[![Cloud Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![Json format](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)   
+[![Postman para requisições http](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](#)
+[![Tokenização com JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](#)
+[![Banco de dados PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
+<!--
 - **Feign** para requisições de API entre os microsserviços
 - **Ribbon** para balancemanto de carga
 - **Eureka** como servidor de registro 
@@ -39,7 +50,8 @@ Este sistema mantém um registro dos funcionários de um determinado setor/empre
 - **Hystrix** para tolerância de falhas
 - **OAuth** e **JWT** para autenticação e autorização de usuários
 - **JPA** para mapeamento da entidades
-- **PostreSQL** como banco de dados relacional
+- **PostreSQL** como banco de dados relacional  
+-->
 
 # :world_map: Visão geral do sistema:
 

@@ -35,12 +35,14 @@ Este sistema mantém um registro dos funcionários de um determinado setor/empre
 [![Java, O brabo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Spring framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Spring secutiry](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](#)
+[![OAuth Security](https://img.shields.io/badge/-OAuth-3423A6?style=for-the-badge&logo=WebAuthn&logoColor=white)](#)
 [![Cloud Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 [![Json format](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)   
 [![Postman para requisições http](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](#)
 [![Tokenização com JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](#)
 [![Banco de dados PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
 
 <!--
 - **Feign** para requisições de API entre os microsserviços

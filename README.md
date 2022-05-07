@@ -31,7 +31,7 @@ Este sistema mantém um registro dos funcionários de um determinado setor/empre
 * :hammer_and_wrench: [Utilização](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#hammer_and_wrench-utiliza%C3%A7%C3%A3o)
 * [Endpoints](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#endpoints)
 
-**Tecnologias utilizadas:**   
+### Tecnologias utilizadas: 
 [![Java, O brabo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Spring framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Spring secutiry](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](#)
@@ -65,7 +65,7 @@ Este projeto possui 7 microsserviços que funcionam da seguinte forma:
 
 ![Exemplo de instâncias dos microsserviços em funcionamento ](https://github.com/Giacomellivinicius/Microsservicos-Java/blob/main/images/VisaoGeral.png?raw=true)
 
-## Endpoints:
+## :dart: Endpoints:
 
 - **{{Api-gateway}}/rh-oauth/oauth/token** - Gera as credenciais de acesso. O usuário e password são passados através do cabeçalho da requisição 
 - **{{Api-gateway}}/rh-funcionario/workers** - Retorna uma lista com todos os funcionários cadastrados

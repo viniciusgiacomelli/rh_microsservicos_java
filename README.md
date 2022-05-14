@@ -29,7 +29,7 @@ Este sistema mantém um registro dos funcionários de um determinado setor/empre
 ### Índice:
 * :world_map: [Visão geral do sistema](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#world_map-vis%C3%A3o-geral-do-sistema)
 * :hammer_and_wrench: [Utilização](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#hammer_and_wrench-utiliza%C3%A7%C3%A3o)
-* [Endpoints](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#endpoints)
+* :dart: [Endpoints](https://github.com/Giacomellivinicius/Microsservicos-Java/edit/main/README.md#endpoints)
 
 ### Tecnologias utilizadas: 
 [![Java, O brabo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)

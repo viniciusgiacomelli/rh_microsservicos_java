@@ -22,7 +22,7 @@ Se gostar do meu trabalho é só me chamar que é sucesso!
 
 -->
 
-# Microsservicos com Java Spring
+# Microsservicos de RH com Java e Spring
 
 Este sistema mantém um registro dos funcionários de um determinado setor/empresa e é responsável por gerar folhas de pagamento baseado nas horas trabalhadas e salário/hora de cada funcionário. A segurança destas informações é mantida através de autenticação dos usuários autorizados e utilização de tokens de sessão com tempo de expiração.
 
